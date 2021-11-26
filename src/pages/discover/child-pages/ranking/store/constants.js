@@ -1,0 +1,3 @@
+export const CHANGE_TOP_LIST_INFO = "ranking/CHANGE_TOP_LIST_INFO"
+export const CHANGE_TOP_LIST_DETAIL = "ranking/CHANGE_TOP_LIST_DETAIL"
+export const CHANGE_COMMENT_INFO = "ranking/CHANGE_COMMENT_INFO"
